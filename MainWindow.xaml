@@ -1,0 +1,16 @@
+﻿<Window x:Name="WirelessNetworkingProducts" x:Class="WirelessNetworkingProducts.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WirelessNetworkingProducts"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="754" Width="1094.8" MaxWidth="1095" MaxHeight="754">
+    <Grid>
+        <Image Margin="5,7,629,390" Source="RouterImage.png" Stretch="Fill" MinWidth="448" MinHeight="317" MaxWidth="448" MaxHeight="317"/>
+        <Image Margin="10,331,474,267" Source="Image1.png" Stretch="Fill"/>
+        <Image Margin="2,459,607,1" Source="Image3.png" Stretch="Fill" MaxWidth="479" MaxHeight="264"/>
+        <Image Margin="483,436,8,1" Source="Image4.png" Stretch="Fill" MaxWidth="597" MaxHeight="287"/>
+        <Image Margin="467,9,5,311" Source="Image5.png" Stretch="Fill" MaxWidth="616" MaxHeight="404"/>
+    </Grid>
+</Window>

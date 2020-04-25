@@ -1,0 +1,15 @@
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\bin\Release\WirelessNetworkingProducts.exe.config
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\bin\Release\WirelessNetworkingProducts.exe
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\bin\Release\WirelessNetworkingProducts.pdb
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\MainWindow.g.cs
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\App.g.cs
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts_MarkupCompile.cache
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts_MarkupCompile.lref
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\MainWindow.baml
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.g.resources
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.Properties.Resources.resources
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.csproj.GenerateResource.cache
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.csproj.CoreCompileInputs.cache
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.exe
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.pdb
+C:\Users\alpag\source\repos\WirelessNetworkingProducts\WirelessNetworkingProducts\obj\Release\WirelessNetworkingProducts.csprojAssemblyReference.cache
