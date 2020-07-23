@@ -4,4 +4,4 @@ The project provides an approximate router design project
 
 ![image](FirmwareImage.png)
 
-![image](WirelessNetworking.png)
+![image](WirelessNetworkingProducts.jpg)
